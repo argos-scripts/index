@@ -1,11 +1,17 @@
-anicode
-https://github.com/fisherman/anicode
-Unicode database query CLI
-unicode search
-markcial
+System Monitor
+https://github.com/fadeouter/sysinfo
+System monitor extension for Argos with real CPU graph
+bash system CPU
+fadeouter
 
-aquaman
-https://github.com/MadcapJake/aquaman
-Trident, deep prompt inspired by Aquaman
-prompt aquaman
-MadcapJake
+Network Monitor
+https://github.com/p-e-w/argos/issues/13#issuecomment-296490068
+A simple network/bandwidth monitor
+bash network bandwidth
+WhiteheadV
+
+Stock Quotes
+https://github.com/dfaour/argos-scripts#getquotespy
+Will fetch quotes and changes for stocks
+python finance
+dfaour
