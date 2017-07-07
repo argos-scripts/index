@@ -28,19 +28,19 @@ simple GUI for the ideviceinfo
 bash ideviceinfo libimobiledevice
 BobyMCbobs
 
-CPU monitor: cpu.1s.py
+CPU monitor cpu.1s.py
 https://github.com/luisfpg/argos-scripts#cpu-monitor-cpu1spy
 Shows the current CPU usage.
 python system CPU
 luisfpg
 
-Memory monitor: mem.1s.py
+Memory monitor mem.1s.py
 https://github.com/luisfpg/argos-scripts#memory-monitor-mem1spy
 Shows the current memory usage.
 python system memory
 luisfpg
 
-Network monitor: net.1s.py
+Network monitor net.1s.py
 https://github.com/luisfpg/argos-scripts#network-monitor-net1spy
 Shows the current network download and upload rates.
 python system network
@@ -48,7 +48,7 @@ luisfpg
 
 Safeeyes
 https://github.com/fadeouter/safeeyes
-keep your eyes healthy (Take a break or Safeeyes analog)
+keep your eyes healthy. Take a break or Safeeyes analog
 bash health break
 fadeouter
 
