@@ -16,8 +16,9 @@ Will fetch quotes and changes for stocks
 python finance
 dfaour
 
-Switch between PulseAudio sinks
+PulseAudio sinks
 https://gitlab.com/sjohannes/argos-pasink
+Switch between PulseAudio sinks
 c pulseaudio
 sjohannes
 
