@@ -33,7 +33,7 @@ cd index
 echo -e "$name\n$url\n$info\n$tags\n$author\n" >> index
 git push origin master
 ```
- 
+
 ## Test coverage
 
 - [x] Index integrity
