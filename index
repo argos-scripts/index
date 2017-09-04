@@ -70,3 +70,33 @@ System monitor extension for Argos with real CPU graph
 bash system CPU
 fadeouter
 
+Emacs Buffers
+https://github.com/mmuman/my-argos-scripts#emacs-buffers-emacssh
+Lists the buffers in running Emacs (you need to have Emacs-Server enabled) and goes right to the selected one.
+bash emacs text
+mmuman
+
+Freeze processes
+https://github.com/mmuman/my-argos-scripts#freeze-processes-freezesh
+Lists the top processes and allows freezing them, and unfreezing as well.
+bash terminal processes
+mmuman
+
+Silkaj
+https://github.com/mmuman/my-argos-scripts#silkaj-silkaj10msh
+Silkaj is a python command line client for the DUniter blockchain-based P2P Fair Money system.(https://github.com/mmuman/silkaj)
+bash python blockchain P2P money
+mmuman
+
+VirtualBox VMs
+https://github.com/mmuman/my-argos-scripts#virtualbox-vms-virtualboxsh
+Lists the VirtualBox virtual machines, and allows changing their state.
+bash VirtualBox
+mmuman
+
+argosWeather
+https://github.com/fadeouter/argosWeather
+Argos extension that works with DarkSky API.
+python weather DarkSky
+fadeouter
+
