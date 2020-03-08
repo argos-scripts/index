@@ -100,3 +100,8 @@ Argos extension that works with DarkSky API.
 python weather DarkSky
 fadeouter
 
+Garoa Hacker Clube Status
+https://github.com/garoa/garoa-argos-plugin
+Argos extension that shows when Garoa Hacker Club (a brazilian hackerspace) is open or closed.
+python requests hackerspace SpaceAPI
+biazzotto
