@@ -100,3 +100,9 @@ Argos extension that works with DarkSky API.
 python weather DarkSky
 fadeouter
 
+covid-argos
+https://github.com/stagehand17/covid-argos.git
+Displays stats of US COVID-19 cases with a submenu for chosen or top n States.
+Argos COVID GNOME
+stagehand17
+
