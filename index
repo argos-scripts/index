@@ -106,3 +106,8 @@ Displays stats of US COVID-19 cases with a submenu for chosen or top n States.
 Argos COVID GNOME
 stagehand17
 
+Garoa Hacker Clube Status
+https://github.com/garoa/garoa-argos-plugin
+Argos extension that shows when Garoa Hacker Club (a brazilian hackerspace) is open or closed.
+python requests hackerspace SpaceAPI
+biazzotto
