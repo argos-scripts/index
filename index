@@ -111,3 +111,9 @@ https://github.com/garoa/garoa-argos-plugin
 Argos extension that shows when Garoa Hacker Club (a brazilian hackerspace) is open or closed.
 python requests hackerspace SpaceAPI
 biazzotto
+
+SpotifyExtension
+https://github.com/Skillzore/argosSpotifyExtension
+This is a simple Spotify extension that displays the currently playing/paused song with artist, album and title.
+spotify Mopidy python music psutil
+Skillzore
