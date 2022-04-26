@@ -46,6 +46,12 @@ Shows the current network download and upload rates.
 python system network
 luisfpg
 
+Pass Picker
+https://github.com/sthesing/argos-pass-picker
+Click copies entries of the standard unix password manager `pass` to clipboard.
+password manager pass otp 2fa
+sthesing
+
 Safeeyes
 https://github.com/fadeouter/safeeyes
 keep your eyes healthy (Take a break or Safeeyes analog)
