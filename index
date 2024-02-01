@@ -117,3 +117,9 @@ https://github.com/Skillzore/argosSpotifyExtension
 This is a simple Spotify extension that displays the currently playing/paused song with artist, album and title.
 spotify Mopidy python music psutil
 Skillzore
+
+OdooCal
+https://github.com/oyale/argos-scripts/#scripts
+Show next events in Odoo calendar
+python odoo odoorpc
+oyale
