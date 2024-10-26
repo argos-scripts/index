@@ -123,3 +123,9 @@ https://github.com/oyale/argos-scripts/#scripts
 Show next events in Odoo calendar
 python odoo odoorpc
 oyale
+
+Countdown Timer
+https://github.com/shindeshubhamm/argos-scripts/tree/main/countdown
+This extension shows a countdown in GNOME topbar for your goals.
+gnome countdown timer
+shindeshubhamm
